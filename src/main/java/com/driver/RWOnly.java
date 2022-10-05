@@ -5,6 +5,10 @@ public class RWOnly {
     private int     A   = 10 ; 
     private String  B   = "Hello";
     
+    public RWOnly()
+    {
+    }
+    
     public void setA(int A)
     {
         this.A = a ; 
